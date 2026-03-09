@@ -18,7 +18,7 @@ header {
   text-transform: uppercase;
   text-align: right;
   color: #0f0e17;
-  background-color: ##ef4f91;
+  background-color: #ef4f91;
   position: fixed;
   top: 0px;
   left: 0px;
@@ -54,7 +54,7 @@ h1 {
   margin-bottom: 5px;
 }
 
-.mainimg {
+.main {
   width: 100%;
   height: auto;
 }
