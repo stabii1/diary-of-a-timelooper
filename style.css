@@ -3,3 +3,93 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html {
+  background-color: #c79dd7;
+  font-size: 16px;
+  font-family: Candara, sans-serif;
+  color: #4d1b7b;
+  line-height: 1.5;
+}
+
+header {
+  width: 100vw;
+  font-size: 12px;
+  text-transform: uppercase;
+  text-align: right;
+  color: #0f0e17;
+  background-color: #ff8906;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  padding: 8px;
+  letter-spacing: .5px;
+  z-index: 10;
+}
+
+nav a{
+  padding: 0 10px;
+  display: inline;
+  color: black;
+  text-decoration: none;
+}
+
+.site-title {
+  font-weight: 700;
+  float: left;
+}
+
+main {
+  position: relative;
+  top: 80px;
+  width: 500px;
+  margin: 0 0 100px 25px;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .15em;
+  margin-bottom: 5px;
+}
+
+.hero {
+  width: 100%;
+  height: auto;
+}
+
+.sticky {
+  width: 90vw;
+  position: sticky;
+  top: 200px;
+}
+
+.float {
+  height: 150px;
+  width: auto;
+  float: right;
+}
+
+.story {
+  margin-top: 20px;
+}
+
+p {
+  text-align: justify;
+  padding: 10px 0;
+}
+
+strong {
+  font-weight: 500;
+  color: goldenrod;
+}
+
+a {
+  color: #ef4f91;
+}
+
+a:hover{
+  color: red;
+  text-decoration: none;
+}
