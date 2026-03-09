@@ -81,8 +81,8 @@ p {
 }
 
 strong {
-  font-weight: 700;
-  color: goldenrod;
+  font-weight: 900;
+  color: #673888;
 }
 
 a {
@@ -90,6 +90,6 @@ a {
 }
 
 a:hover{
-  color: red;
+  color: #ff0000;
   text-decoration: none;
 }
